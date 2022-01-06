@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fawad
-- 👀 I’m interested in React js | Java
-- 🌱 I’m currently learning Java | Springboot
+- 👀 I’m interested in Java | Javascript...
+- 🌱 I’m currently learning Java | Springboot | Angular
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/fawadkhan97/
 
